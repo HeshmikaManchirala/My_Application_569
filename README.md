@@ -1,1 +1,2 @@
-# My_Application_569
+Git is a version control system. 
+It is the local application.
